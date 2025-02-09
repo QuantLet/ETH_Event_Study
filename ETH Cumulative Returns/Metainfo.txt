@@ -1,0 +1,11 @@
+Name of Quantlet: ETH Cumulative Returns
+
+Published in: Market Responses to Ethereum Development Milestones: An Event Study Approach
+
+Description: Applying cumulative abnormal returns (CAR) for the event’s aggregation effect, offering higher statistical power, making it more robust than AR.
+
+Keywords: cumulative, returns, R, python, ETH, study, event, upgrade
+
+Author: Ruting Rainy WANG; Minbin Lin
+
+Submitted: 09.02.2025
