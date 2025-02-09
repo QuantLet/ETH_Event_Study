@@ -1,0 +1,11 @@
+Name of Quantlet: ETH Synthetic Control
+
+Published in: Market Responses to Ethereum Development Milestones: An Event Study Approach
+
+Description: Applying Synthetic Control methodology over ETH upgrates to determine the impact of upgrade events. 
+
+Keywords: event, study, R, python, ETH, SCM, Application
+
+Author: Ruting Rainy WANG; Minbin Lin
+
+Submitted: 09.02.2025
