@@ -1,7 +1,7 @@
 
 Name of Quantlet: ETH Abnormal Returns
 
-Published in: Non
+Published in: Market Responses to Ethereum Development Milestones: An Event Study Approach
 
 Description: Examination of ETH’s abnormal returns (AR), which is the deviation from the expected return, to assess the impact of specific updates.
 
