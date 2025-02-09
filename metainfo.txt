@@ -1,7 +1,7 @@
 
 Name of Quantlet: ETH_Event_Study
-Published in: 'Non'
-Description: 'Event shocks of the ETH milestone upgrading events based on event study methods and Synthetic control method(SCM)'
-Keywords: 'Event study, R, python, ETH, SCM, Application'
-Author: 'Ruting Rainy WANG; Minbin Lin' 
-Submitted:  '11.01.2025'
+Published in: Market Responses to Ethereum Development Milestones: An Event Study Approach
+Description: This study explores the effects of innovative developments (i.e., improvement proposals and upgrades) in Ethereum (ETH) within the cryptocurrency (crypto) market.
+Keywords: event study, R, python, ETH, SCM, Application, ar, car, herding
+Author: Ruting Rainy WANG; Minbin Lin; Găman Ștefan  
+Submitted:  09.02.2025
